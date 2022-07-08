@@ -2,7 +2,7 @@
 // Decompiled by Procyon v0.5.36
 // 
 
-package mooni.Jukebox;
+package juancitocubo.Jukebox;
 
 import org.bukkit.event.EventHandler;
 import org.bukkit.inventory.ItemStack;
